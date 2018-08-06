@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
         name='squinky',
-        version='0.0.1',
+        version='0.1.0',
         packages=[
             'squinky', 'squinky.data', 'squinky.lib', 'squinky.lib.nlp'
         ],
